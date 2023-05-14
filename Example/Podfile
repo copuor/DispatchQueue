@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'DispatchQueue_Example' do
+  pod 'DispatchQueue', :path => '../'
+
+  target 'DispatchQueue_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
