@@ -1,0 +1,6 @@
+framework module DispatchQueue {
+  umbrella header "DispatchQueue-umbrella.h"
+
+  export *
+  module * { export * }
+}

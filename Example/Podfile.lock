@@ -1,0 +1,16 @@
+PODS:
+  - DispatchQueue (0.1.0)
+
+DEPENDENCIES:
+  - DispatchQueue (from `../`)
+
+EXTERNAL SOURCES:
+  DispatchQueue:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DispatchQueue: c98b1fa4e24d1a77688a03b8f535aa8621231e75
+
+PODFILE CHECKSUM: c9521777f895bc1cf83a4e096fa76a4f32fc791f
+
+COCOAPODS: 1.12.1

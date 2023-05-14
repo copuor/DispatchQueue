@@ -1,0 +1,22 @@
+{
+  "name": "DispatchQueue",
+  "version": "0.1.0",
+  "summary": "A short description of DispatchQueue.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/John Wilson/DispatchQueue",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "John Wilson": "fllios2011@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/John Wilson/DispatchQueue.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DispatchQueue/Classes/**/*"
+}
